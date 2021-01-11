@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dukhyun Duke Ko</h1>
-<h3 align="center">A passionate frontend developer from Queens, New York</h3>
+<h3 align="center">A passionate fullstack developer from Queens, New York</h3>
 
 - 🌱 I’m currently learning **Typescript, Algorithms, Data Structures**
 
@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [Medium](https://medium.com/@dukhyunko93)
 
-- 📫 How to reach me **dukhyunko93@gmail.com**
+- 📫 How to reach me **dukeko.se@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NJ_bd3lOtR4karTdfY8Gmf8CvLWSnXIB/view)
 
