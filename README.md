@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dukeko.se@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-lcmL7gaXAEnm9gUckiqBx2GBzCFiGHt/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yXOrepmGPE6vtX42LV9vvYrqcTSy84L_/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
