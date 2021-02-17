@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dukhyun Duke Ko</h1>
 <h3 align="center">A passionate fullstack developer from Queens, New York</h3>
 
-- 🌱 I’m currently learning **Typescript, Algorithms, Data Structures**
+- 🌱 I’m currently learning **C#, ASP.NET Core, Algorithms, Data Structures**
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://dukhyunko93.github.io/)
 
